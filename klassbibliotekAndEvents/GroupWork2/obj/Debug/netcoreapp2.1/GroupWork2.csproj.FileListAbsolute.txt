@@ -1,0 +1,14 @@
+C:\Users\Yen Agetorp\source\repos\GroupWork2\GroupWork2\obj\Debug\netcoreapp2.1\GroupWork2.csprojAssemblyReference.cache
+C:\Users\Yen Agetorp\source\repos\GroupWork2\GroupWork2\obj\Debug\netcoreapp2.1\GroupWork2.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\GroupWork2\GroupWork2\obj\Debug\netcoreapp2.1\GroupWork2.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\source\repos\GroupWork2\GroupWork2\obj\Debug\netcoreapp2.1\GroupWork2.AssemblyInfo.cs
+C:\Users\Yen Agetorp\source\repos\GroupWork2\GroupWork2\bin\Debug\netcoreapp2.1\GroupWork2.deps.json
+C:\Users\Yen Agetorp\source\repos\GroupWork2\GroupWork2\bin\Debug\netcoreapp2.1\GroupWork2.runtimeconfig.json
+C:\Users\Yen Agetorp\source\repos\GroupWork2\GroupWork2\bin\Debug\netcoreapp2.1\GroupWork2.runtimeconfig.dev.json
+C:\Users\Yen Agetorp\source\repos\GroupWork2\GroupWork2\bin\Debug\netcoreapp2.1\GroupWork2.dll
+C:\Users\Yen Agetorp\source\repos\GroupWork2\GroupWork2\bin\Debug\netcoreapp2.1\GroupWork2.pdb
+C:\Users\Yen Agetorp\source\repos\GroupWork2\GroupWork2\obj\Debug\netcoreapp2.1\GroupWork2.dll
+C:\Users\Yen Agetorp\source\repos\GroupWork2\GroupWork2\obj\Debug\netcoreapp2.1\GroupWork2.pdb
+C:\Users\Yen Agetorp\source\repos\GroupWork2\GroupWork2\obj\Debug\netcoreapp2.1\GroupWork2.csproj.CopyComplete
+C:\Users\Yen Agetorp\source\repos\GroupWork2\GroupWork2\bin\Debug\netcoreapp2.1\NumberUtils.dll
+C:\Users\Yen Agetorp\source\repos\GroupWork2\GroupWork2\bin\Debug\netcoreapp2.1\NumberUtils.pdb

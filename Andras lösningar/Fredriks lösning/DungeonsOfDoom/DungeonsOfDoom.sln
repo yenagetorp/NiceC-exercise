@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DungeonsOfDoom", "DungeonsOfDoom\DungeonsOfDoom.csproj", "{5BDBC626-8907-425F-85AA-88928DC55EBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDUtils", "DDUtils\DDUtils.csproj", "{BADFF186-B455-4A4A-AA70-96F031335AF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonsOfDoom.Core", "DungeonsOfDoom.Core.cs\DungeonsOfDoom.Core.csproj", "{4F46DBC5-8110-46CF-AB0D-9E58D27EB5CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BDBC626-8907-425F-85AA-88928DC55EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDBC626-8907-425F-85AA-88928DC55EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDBC626-8907-425F-85AA-88928DC55EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDBC626-8907-425F-85AA-88928DC55EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BADFF186-B455-4A4A-AA70-96F031335AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADFF186-B455-4A4A-AA70-96F031335AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADFF186-B455-4A4A-AA70-96F031335AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADFF186-B455-4A4A-AA70-96F031335AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F46DBC5-8110-46CF-AB0D-9E58D27EB5CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F46DBC5-8110-46CF-AB0D-9E58D27EB5CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F46DBC5-8110-46CF-AB0D-9E58D27EB5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F46DBC5-8110-46CF-AB0D-9E58D27EB5CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A6B5232-2864-4BE0-A145-964965D3CBC4}
+	EndGlobalSection
+EndGlobal

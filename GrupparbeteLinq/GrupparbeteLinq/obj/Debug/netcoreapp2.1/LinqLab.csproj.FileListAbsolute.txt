@@ -1,0 +1,11 @@
+C:\Users\Yen Agetorp\source\repos\GrupparbeteLinq\GrupparbeteLinq\bin\Debug\netcoreapp2.1\LinqLab.deps.json
+C:\Users\Yen Agetorp\source\repos\GrupparbeteLinq\GrupparbeteLinq\bin\Debug\netcoreapp2.1\LinqLab.runtimeconfig.json
+C:\Users\Yen Agetorp\source\repos\GrupparbeteLinq\GrupparbeteLinq\bin\Debug\netcoreapp2.1\LinqLab.runtimeconfig.dev.json
+C:\Users\Yen Agetorp\source\repos\GrupparbeteLinq\GrupparbeteLinq\bin\Debug\netcoreapp2.1\LinqLab.dll
+C:\Users\Yen Agetorp\source\repos\GrupparbeteLinq\GrupparbeteLinq\bin\Debug\netcoreapp2.1\LinqLab.pdb
+C:\Users\Yen Agetorp\source\repos\GrupparbeteLinq\GrupparbeteLinq\obj\Debug\netcoreapp2.1\LinqLab.csprojAssemblyReference.cache
+C:\Users\Yen Agetorp\source\repos\GrupparbeteLinq\GrupparbeteLinq\obj\Debug\netcoreapp2.1\LinqLab.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\GrupparbeteLinq\GrupparbeteLinq\obj\Debug\netcoreapp2.1\LinqLab.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\source\repos\GrupparbeteLinq\GrupparbeteLinq\obj\Debug\netcoreapp2.1\LinqLab.AssemblyInfo.cs
+C:\Users\Yen Agetorp\source\repos\GrupparbeteLinq\GrupparbeteLinq\obj\Debug\netcoreapp2.1\LinqLab.dll
+C:\Users\Yen Agetorp\source\repos\GrupparbeteLinq\GrupparbeteLinq\obj\Debug\netcoreapp2.1\LinqLab.pdb

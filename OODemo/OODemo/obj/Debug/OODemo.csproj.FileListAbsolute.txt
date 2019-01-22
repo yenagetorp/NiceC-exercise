@@ -1,0 +1,7 @@
+C:\Users\Yen Agetorp\source\repos\OODemo\OODemo\obj\Debug\OODemo.csprojAssemblyReference.cache
+C:\Users\Yen Agetorp\source\repos\OODemo\OODemo\obj\Debug\OODemo.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\OODemo\OODemo\bin\Debug\OODemo.exe.config
+C:\Users\Yen Agetorp\source\repos\OODemo\OODemo\bin\Debug\OODemo.exe
+C:\Users\Yen Agetorp\source\repos\OODemo\OODemo\bin\Debug\OODemo.pdb
+C:\Users\Yen Agetorp\source\repos\OODemo\OODemo\obj\Debug\OODemo.exe
+C:\Users\Yen Agetorp\source\repos\OODemo\OODemo\obj\Debug\OODemo.pdb

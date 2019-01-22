@@ -1,0 +1,11 @@
+C:\Users\Yen Agetorp\source\repos\Repetitionmed H\test\bin\Debug\netcoreapp2.1\test.deps.json
+C:\Users\Yen Agetorp\source\repos\Repetitionmed H\test\bin\Debug\netcoreapp2.1\test.runtimeconfig.json
+C:\Users\Yen Agetorp\source\repos\Repetitionmed H\test\bin\Debug\netcoreapp2.1\test.runtimeconfig.dev.json
+C:\Users\Yen Agetorp\source\repos\Repetitionmed H\test\bin\Debug\netcoreapp2.1\test.dll
+C:\Users\Yen Agetorp\source\repos\Repetitionmed H\test\bin\Debug\netcoreapp2.1\test.pdb
+C:\Users\Yen Agetorp\source\repos\Repetitionmed H\test\obj\Debug\netcoreapp2.1\test.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\Repetitionmed H\test\obj\Debug\netcoreapp2.1\test.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\source\repos\Repetitionmed H\test\obj\Debug\netcoreapp2.1\test.AssemblyInfo.cs
+C:\Users\Yen Agetorp\source\repos\Repetitionmed H\test\obj\Debug\netcoreapp2.1\test.dll
+C:\Users\Yen Agetorp\source\repos\Repetitionmed H\test\obj\Debug\netcoreapp2.1\test.pdb
+C:\Users\Yen Agetorp\source\repos\Repetitionmed H\test\obj\Debug\netcoreapp2.1\test.csprojAssemblyReference.cache

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DungeonsOfDoom", "DungeonsOfDoom\DungeonsOfDoom.csproj", "{5BDBC626-8907-425F-85AA-88928DC55EBF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utils", "Utils\Utils.csproj", "{52831AA7-5992-4E82-9C32-B1E1C63C1AD3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DungeonsOfDoom.Core", "DungeonsOfDoom.Core\DungeonsOfDoom.Core.csproj", "{52B8F695-A174-49FE-8560-040E5DEF55FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoD", "DoD\DoD.csproj", "{DCA2C6C5-C130-44D1-B85F-FBA3DE1D4980}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BDBC626-8907-425F-85AA-88928DC55EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDBC626-8907-425F-85AA-88928DC55EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDBC626-8907-425F-85AA-88928DC55EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDBC626-8907-425F-85AA-88928DC55EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52831AA7-5992-4E82-9C32-B1E1C63C1AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52831AA7-5992-4E82-9C32-B1E1C63C1AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52831AA7-5992-4E82-9C32-B1E1C63C1AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52831AA7-5992-4E82-9C32-B1E1C63C1AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52B8F695-A174-49FE-8560-040E5DEF55FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B8F695-A174-49FE-8560-040E5DEF55FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B8F695-A174-49FE-8560-040E5DEF55FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B8F695-A174-49FE-8560-040E5DEF55FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA2C6C5-C130-44D1-B85F-FBA3DE1D4980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA2C6C5-C130-44D1-B85F-FBA3DE1D4980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA2C6C5-C130-44D1-B85F-FBA3DE1D4980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA2C6C5-C130-44D1-B85F-FBA3DE1D4980}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A6B5232-2864-4BE0-A145-964965D3CBC4}
+	EndGlobalSection
+EndGlobal

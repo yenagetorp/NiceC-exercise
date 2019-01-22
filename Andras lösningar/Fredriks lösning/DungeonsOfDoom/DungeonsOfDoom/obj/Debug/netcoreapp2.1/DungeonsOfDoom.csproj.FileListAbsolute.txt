@@ -1,0 +1,65 @@
+C:\Users\fredr\source\repos\Eget\DungeonsOfDoomStart\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.deps.json
+C:\Users\fredr\source\repos\Eget\DungeonsOfDoomStart\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.runtimeconfig.json
+C:\Users\fredr\source\repos\Eget\DungeonsOfDoomStart\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.runtimeconfig.dev.json
+C:\Users\fredr\source\repos\Eget\DungeonsOfDoomStart\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.dll
+C:\Users\fredr\source\repos\Eget\DungeonsOfDoomStart\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.pdb
+C:\Users\fredr\source\repos\Eget\DungeonsOfDoomStart\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.csprojAssemblyReference.cache
+C:\Users\fredr\source\repos\Eget\DungeonsOfDoomStart\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.csproj.CoreCompileInputs.cache
+C:\Users\fredr\source\repos\Eget\DungeonsOfDoomStart\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.AssemblyInfoInputs.cache
+C:\Users\fredr\source\repos\Eget\DungeonsOfDoomStart\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.AssemblyInfo.cs
+C:\Users\fredr\source\repos\Eget\DungeonsOfDoomStart\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.dll
+C:\Users\fredr\source\repos\Eget\DungeonsOfDoomStart\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.pdb
+C:\Users\Detlo\OneDrive\Dokument\Code\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.csprojAssemblyReference.cache
+C:\Users\Detlo\OneDrive\Dokument\Code\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.csproj.CoreCompileInputs.cache
+C:\Users\Detlo\OneDrive\Dokument\Code\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.AssemblyInfoInputs.cache
+C:\Users\Detlo\OneDrive\Dokument\Code\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.AssemblyInfo.cs
+C:\Users\Detlo\OneDrive\Dokument\Code\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.dll
+C:\Users\Detlo\OneDrive\Dokument\Code\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.pdb
+C:\Users\Detlo\OneDrive\Dokument\Code\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.deps.json
+C:\Users\Detlo\OneDrive\Dokument\Code\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.runtimeconfig.json
+C:\Users\Detlo\OneDrive\Dokument\Code\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.runtimeconfig.dev.json
+C:\Users\Detlo\OneDrive\Dokument\Code\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.dll
+C:\Users\Detlo\OneDrive\Dokument\Code\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.pdb
+C:\Users\fredr\source\repos\Eget\DungeonsOfDoomStart\24_10_01\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.deps.json
+C:\Users\fredr\source\repos\Eget\DungeonsOfDoomStart\24_10_01\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.runtimeconfig.json
+C:\Users\fredr\source\repos\Eget\DungeonsOfDoomStart\24_10_01\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.runtimeconfig.dev.json
+C:\Users\fredr\source\repos\Eget\DungeonsOfDoomStart\24_10_01\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.dll
+C:\Users\fredr\source\repos\Eget\DungeonsOfDoomStart\24_10_01\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.pdb
+C:\Users\fredr\source\repos\Eget\DungeonsOfDoomStart\24_10_01\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.csprojAssemblyReference.cache
+C:\Users\fredr\source\repos\Eget\DungeonsOfDoomStart\24_10_01\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.csproj.CoreCompileInputs.cache
+C:\Users\fredr\source\repos\Eget\DungeonsOfDoomStart\24_10_01\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.AssemblyInfoInputs.cache
+C:\Users\fredr\source\repos\Eget\DungeonsOfDoomStart\24_10_01\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.AssemblyInfo.cs
+C:\Users\fredr\source\repos\Eget\DungeonsOfDoomStart\24_10_01\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.dll
+C:\Users\fredr\source\repos\Eget\DungeonsOfDoomStart\24_10_01\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.pdb
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.csprojAssemblyReference.cache
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.dll
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.pdb
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.deps.json
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.runtimeconfig.json
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.runtimeconfig.dev.json
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.dll
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.pdb
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DDUtils.dll
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DDUtils.pdb
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.csproj.CopyComplete
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.Core.dll
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.Core.pdb
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.deps.json
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.runtimeconfig.json
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.runtimeconfig.dev.json
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.dll
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.pdb
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DDUtils.dll
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.Core.dll
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DDUtils.pdb
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\netcoreapp2.1\DungeonsOfDoom.Core.pdb
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.csprojAssemblyReference.cache
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.AssemblyInfo.cs
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.csproj.CopyComplete
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.dll
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\netcoreapp2.1\DungeonsOfDoom.pdb

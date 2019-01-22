@@ -1,0 +1,20 @@
+c:\users\tim\Source\Repos\ApiConsumerDemo\DemoLibrary\bin\Debug\DemoLibrary.dll.config
+c:\users\tim\Source\Repos\ApiConsumerDemo\DemoLibrary\bin\Debug\DemoLibrary.dll
+c:\users\tim\Source\Repos\ApiConsumerDemo\DemoLibrary\bin\Debug\DemoLibrary.pdb
+c:\users\tim\Source\Repos\ApiConsumerDemo\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+c:\users\tim\Source\Repos\ApiConsumerDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+c:\users\tim\Source\Repos\ApiConsumerDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
+c:\users\tim\Source\Repos\ApiConsumerDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb
+C:\Users\Yen Agetorp\source\repos\C#\CallingAPI\DemoLibrary\bin\Debug\DemoLibrary.dll.config
+C:\Users\Yen Agetorp\source\repos\C#\CallingAPI\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\Yen Agetorp\source\repos\C#\CallingAPI\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\Yen Agetorp\source\repos\C#\CallingAPI\DemoLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yen Agetorp\source\repos\C#\CallingAPI\DemoLibrary\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Yen Agetorp\source\repos\C#\CallingAPI\DemoLibrary\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Yen Agetorp\source\repos\C#\CallingAPI\DemoLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yen Agetorp\source\repos\C#\CallingAPI\DemoLibrary\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Yen Agetorp\source\repos\C#\CallingAPI\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\Yen Agetorp\source\repos\C#\CallingAPI\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\C#\CallingAPI\DemoLibrary\obj\Debug\DemoLibrary.csproj.CopyComplete
+C:\Users\Yen Agetorp\source\repos\C#\CallingAPI\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\Yen Agetorp\source\repos\C#\CallingAPI\DemoLibrary\obj\Debug\DemoLibrary.pdb

@@ -1,0 +1,14 @@
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\GenericsDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\GenericsDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\GenericsDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\GenericsDemo\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\GenericsDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\GenericsDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\GenericsDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Yen Agetorp\source\repos\C#\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Yen Agetorp\source\repos\C#\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Yen Agetorp\source\repos\C#\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Yen Agetorp\source\repos\C#\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Yen Agetorp\source\repos\C#\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\C#\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Yen Agetorp\source\repos\C#\ConsoleUI\obj\Debug\ConsoleUI.pdb

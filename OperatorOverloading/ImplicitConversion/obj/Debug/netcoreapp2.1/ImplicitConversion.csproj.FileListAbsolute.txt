@@ -1,0 +1,11 @@
+C:\Users\Yen Agetorp\source\repos\OperatorOverloading\ImplicitConversion\bin\Debug\netcoreapp2.1\ImplicitConversion.deps.json
+C:\Users\Yen Agetorp\source\repos\OperatorOverloading\ImplicitConversion\bin\Debug\netcoreapp2.1\ImplicitConversion.runtimeconfig.json
+C:\Users\Yen Agetorp\source\repos\OperatorOverloading\ImplicitConversion\bin\Debug\netcoreapp2.1\ImplicitConversion.runtimeconfig.dev.json
+C:\Users\Yen Agetorp\source\repos\OperatorOverloading\ImplicitConversion\bin\Debug\netcoreapp2.1\ImplicitConversion.dll
+C:\Users\Yen Agetorp\source\repos\OperatorOverloading\ImplicitConversion\bin\Debug\netcoreapp2.1\ImplicitConversion.pdb
+C:\Users\Yen Agetorp\source\repos\OperatorOverloading\ImplicitConversion\obj\Debug\netcoreapp2.1\ImplicitConversion.csprojAssemblyReference.cache
+C:\Users\Yen Agetorp\source\repos\OperatorOverloading\ImplicitConversion\obj\Debug\netcoreapp2.1\ImplicitConversion.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\OperatorOverloading\ImplicitConversion\obj\Debug\netcoreapp2.1\ImplicitConversion.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\source\repos\OperatorOverloading\ImplicitConversion\obj\Debug\netcoreapp2.1\ImplicitConversion.AssemblyInfo.cs
+C:\Users\Yen Agetorp\source\repos\OperatorOverloading\ImplicitConversion\obj\Debug\netcoreapp2.1\ImplicitConversion.dll
+C:\Users\Yen Agetorp\source\repos\OperatorOverloading\ImplicitConversion\obj\Debug\netcoreapp2.1\ImplicitConversion.pdb

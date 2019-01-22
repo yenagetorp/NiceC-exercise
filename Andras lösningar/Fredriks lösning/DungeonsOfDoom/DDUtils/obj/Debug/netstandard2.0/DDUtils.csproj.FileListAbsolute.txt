@@ -1,0 +1,18 @@
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DDUtils\bin\Debug\netstandard2.0\DDUtils.deps.json
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DDUtils\bin\Debug\netstandard2.0\DDUtils.dll
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DDUtils\bin\Debug\netstandard2.0\DDUtils.pdb
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DDUtils\obj\Debug\netstandard2.0\DDUtils.csprojAssemblyReference.cache
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DDUtils\obj\Debug\netstandard2.0\DDUtils.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DDUtils\obj\Debug\netstandard2.0\DDUtils.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DDUtils\obj\Debug\netstandard2.0\DDUtils.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DDUtils\obj\Debug\netstandard2.0\DDUtils.dll
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DDUtils\obj\Debug\netstandard2.0\DDUtils.pdb
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DDUtils\bin\Debug\netstandard2.0\DDUtils.deps.json
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DDUtils\bin\Debug\netstandard2.0\DDUtils.dll
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DDUtils\bin\Debug\netstandard2.0\DDUtils.pdb
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DDUtils\obj\Debug\netstandard2.0\DDUtils.csprojAssemblyReference.cache
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DDUtils\obj\Debug\netstandard2.0\DDUtils.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DDUtils\obj\Debug\netstandard2.0\DDUtils.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DDUtils\obj\Debug\netstandard2.0\DDUtils.AssemblyInfo.cs
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DDUtils\obj\Debug\netstandard2.0\DDUtils.dll
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DDUtils\obj\Debug\netstandard2.0\DDUtils.pdb

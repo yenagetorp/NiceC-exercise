@@ -1,0 +1,22 @@
+C:\Users\Yen Agetorp\source\repos\CheckPoint03\CheckPoint03\bin\Debug\netcoreapp2.1\CheckPoint03.deps.json
+C:\Users\Yen Agetorp\source\repos\CheckPoint03\CheckPoint03\bin\Debug\netcoreapp2.1\CheckPoint03.runtimeconfig.json
+C:\Users\Yen Agetorp\source\repos\CheckPoint03\CheckPoint03\bin\Debug\netcoreapp2.1\CheckPoint03.runtimeconfig.dev.json
+C:\Users\Yen Agetorp\source\repos\CheckPoint03\CheckPoint03\bin\Debug\netcoreapp2.1\CheckPoint03.dll
+C:\Users\Yen Agetorp\source\repos\CheckPoint03\CheckPoint03\bin\Debug\netcoreapp2.1\CheckPoint03.pdb
+C:\Users\Yen Agetorp\source\repos\CheckPoint03\CheckPoint03\obj\Debug\netcoreapp2.1\CheckPoint03.csprojAssemblyReference.cache
+C:\Users\Yen Agetorp\source\repos\CheckPoint03\CheckPoint03\obj\Debug\netcoreapp2.1\CheckPoint03.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\CheckPoint03\CheckPoint03\obj\Debug\netcoreapp2.1\CheckPoint03.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\source\repos\CheckPoint03\CheckPoint03\obj\Debug\netcoreapp2.1\CheckPoint03.AssemblyInfo.cs
+C:\Users\Yen Agetorp\source\repos\CheckPoint03\CheckPoint03\obj\Debug\netcoreapp2.1\CheckPoint03.dll
+C:\Users\Yen Agetorp\source\repos\CheckPoint03\CheckPoint03\obj\Debug\netcoreapp2.1\CheckPoint03.pdb
+C:\Users\Yen Agetorp\Desktop\Yen Agetorp\CheckPoint03\CheckPoint03\bin\Debug\netcoreapp2.1\CheckPoint03.deps.json
+C:\Users\Yen Agetorp\Desktop\Yen Agetorp\CheckPoint03\CheckPoint03\bin\Debug\netcoreapp2.1\CheckPoint03.runtimeconfig.json
+C:\Users\Yen Agetorp\Desktop\Yen Agetorp\CheckPoint03\CheckPoint03\bin\Debug\netcoreapp2.1\CheckPoint03.runtimeconfig.dev.json
+C:\Users\Yen Agetorp\Desktop\Yen Agetorp\CheckPoint03\CheckPoint03\bin\Debug\netcoreapp2.1\CheckPoint03.dll
+C:\Users\Yen Agetorp\Desktop\Yen Agetorp\CheckPoint03\CheckPoint03\bin\Debug\netcoreapp2.1\CheckPoint03.pdb
+C:\Users\Yen Agetorp\Desktop\Yen Agetorp\CheckPoint03\CheckPoint03\obj\Debug\netcoreapp2.1\CheckPoint03.csprojAssemblyReference.cache
+C:\Users\Yen Agetorp\Desktop\Yen Agetorp\CheckPoint03\CheckPoint03\obj\Debug\netcoreapp2.1\CheckPoint03.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\Desktop\Yen Agetorp\CheckPoint03\CheckPoint03\obj\Debug\netcoreapp2.1\CheckPoint03.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\Desktop\Yen Agetorp\CheckPoint03\CheckPoint03\obj\Debug\netcoreapp2.1\CheckPoint03.AssemblyInfo.cs
+C:\Users\Yen Agetorp\Desktop\Yen Agetorp\CheckPoint03\CheckPoint03\obj\Debug\netcoreapp2.1\CheckPoint03.dll
+C:\Users\Yen Agetorp\Desktop\Yen Agetorp\CheckPoint03\CheckPoint03\obj\Debug\netcoreapp2.1\CheckPoint03.pdb

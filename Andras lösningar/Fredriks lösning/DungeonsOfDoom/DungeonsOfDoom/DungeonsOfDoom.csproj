@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DDUtils\DDUtils.csproj" />
+    <ProjectReference Include="..\DungeonsOfDoom.Core.cs\DungeonsOfDoom.Core.csproj" />
+  </ItemGroup>
+
+</Project>

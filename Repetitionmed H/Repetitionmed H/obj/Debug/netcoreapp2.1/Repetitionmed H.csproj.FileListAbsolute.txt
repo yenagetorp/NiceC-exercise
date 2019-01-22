@@ -1,0 +1,11 @@
+C:\Users\Yen Agetorp\source\repos\Repetitionmed H\Repetitionmed H\bin\Debug\netcoreapp2.1\Repetitionmed H.deps.json
+C:\Users\Yen Agetorp\source\repos\Repetitionmed H\Repetitionmed H\bin\Debug\netcoreapp2.1\Repetitionmed H.runtimeconfig.json
+C:\Users\Yen Agetorp\source\repos\Repetitionmed H\Repetitionmed H\bin\Debug\netcoreapp2.1\Repetitionmed H.runtimeconfig.dev.json
+C:\Users\Yen Agetorp\source\repos\Repetitionmed H\Repetitionmed H\bin\Debug\netcoreapp2.1\Repetitionmed H.dll
+C:\Users\Yen Agetorp\source\repos\Repetitionmed H\Repetitionmed H\bin\Debug\netcoreapp2.1\Repetitionmed H.pdb
+C:\Users\Yen Agetorp\source\repos\Repetitionmed H\Repetitionmed H\obj\Debug\netcoreapp2.1\Repetitionmed H.csprojAssemblyReference.cache
+C:\Users\Yen Agetorp\source\repos\Repetitionmed H\Repetitionmed H\obj\Debug\netcoreapp2.1\Repetitionmed H.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\Repetitionmed H\Repetitionmed H\obj\Debug\netcoreapp2.1\Repetitionmed H.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\source\repos\Repetitionmed H\Repetitionmed H\obj\Debug\netcoreapp2.1\Repetitionmed H.AssemblyInfo.cs
+C:\Users\Yen Agetorp\source\repos\Repetitionmed H\Repetitionmed H\obj\Debug\netcoreapp2.1\Repetitionmed H.dll
+C:\Users\Yen Agetorp\source\repos\Repetitionmed H\Repetitionmed H\obj\Debug\netcoreapp2.1\Repetitionmed H.pdb

@@ -1,0 +1,9 @@
+C:\Users\Yen Agetorp\source\repos\GroupWork2\NumberUtils\bin\Debug\netstandard2.0\NumberUtils.deps.json
+C:\Users\Yen Agetorp\source\repos\GroupWork2\NumberUtils\bin\Debug\netstandard2.0\NumberUtils.dll
+C:\Users\Yen Agetorp\source\repos\GroupWork2\NumberUtils\bin\Debug\netstandard2.0\NumberUtils.pdb
+C:\Users\Yen Agetorp\source\repos\GroupWork2\NumberUtils\obj\Debug\netstandard2.0\NumberUtils.csprojAssemblyReference.cache
+C:\Users\Yen Agetorp\source\repos\GroupWork2\NumberUtils\obj\Debug\netstandard2.0\NumberUtils.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\GroupWork2\NumberUtils\obj\Debug\netstandard2.0\NumberUtils.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\source\repos\GroupWork2\NumberUtils\obj\Debug\netstandard2.0\NumberUtils.AssemblyInfo.cs
+C:\Users\Yen Agetorp\source\repos\GroupWork2\NumberUtils\obj\Debug\netstandard2.0\NumberUtils.dll
+C:\Users\Yen Agetorp\source\repos\GroupWork2\NumberUtils\obj\Debug\netstandard2.0\NumberUtils.pdb

@@ -1,0 +1,11 @@
+C:\Users\Yen Agetorp\source\repos\OperatorOverloading\ValueTuples\bin\Debug\netcoreapp2.1\ValueTuples.deps.json
+C:\Users\Yen Agetorp\source\repos\OperatorOverloading\ValueTuples\bin\Debug\netcoreapp2.1\ValueTuples.runtimeconfig.json
+C:\Users\Yen Agetorp\source\repos\OperatorOverloading\ValueTuples\bin\Debug\netcoreapp2.1\ValueTuples.runtimeconfig.dev.json
+C:\Users\Yen Agetorp\source\repos\OperatorOverloading\ValueTuples\bin\Debug\netcoreapp2.1\ValueTuples.dll
+C:\Users\Yen Agetorp\source\repos\OperatorOverloading\ValueTuples\bin\Debug\netcoreapp2.1\ValueTuples.pdb
+C:\Users\Yen Agetorp\source\repos\OperatorOverloading\ValueTuples\obj\Debug\netcoreapp2.1\ValueTuples.csprojAssemblyReference.cache
+C:\Users\Yen Agetorp\source\repos\OperatorOverloading\ValueTuples\obj\Debug\netcoreapp2.1\ValueTuples.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\OperatorOverloading\ValueTuples\obj\Debug\netcoreapp2.1\ValueTuples.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\source\repos\OperatorOverloading\ValueTuples\obj\Debug\netcoreapp2.1\ValueTuples.AssemblyInfo.cs
+C:\Users\Yen Agetorp\source\repos\OperatorOverloading\ValueTuples\obj\Debug\netcoreapp2.1\ValueTuples.dll
+C:\Users\Yen Agetorp\source\repos\OperatorOverloading\ValueTuples\obj\Debug\netcoreapp2.1\ValueTuples.pdb

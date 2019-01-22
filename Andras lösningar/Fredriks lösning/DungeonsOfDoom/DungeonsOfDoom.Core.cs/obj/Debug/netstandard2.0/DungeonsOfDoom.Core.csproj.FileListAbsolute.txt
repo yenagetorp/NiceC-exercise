@@ -1,0 +1,24 @@
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom.Core.cs\bin\Debug\netstandard2.0\DungeonsOfDoom.Core.deps.json
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom.Core.cs\bin\Debug\netstandard2.0\DungeonsOfDoom.Core.dll
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom.Core.cs\bin\Debug\netstandard2.0\DungeonsOfDoom.Core.pdb
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom.Core.cs\bin\Debug\netstandard2.0\DDUtils.dll
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom.Core.cs\bin\Debug\netstandard2.0\DDUtils.pdb
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom.Core.cs\obj\Debug\netstandard2.0\DungeonsOfDoom.Core.csprojAssemblyReference.cache
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom.Core.cs\obj\Debug\netstandard2.0\DungeonsOfDoom.Core.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom.Core.cs\obj\Debug\netstandard2.0\DungeonsOfDoom.Core.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom.Core.cs\obj\Debug\netstandard2.0\DungeonsOfDoom.Core.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom.Core.cs\obj\Debug\netstandard2.0\DungeonsOfDoom.Core.csproj.CopyComplete
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom.Core.cs\obj\Debug\netstandard2.0\DungeonsOfDoom.Core.dll
+C:\Users\natal\OneDrive\Academy\Vecka 2\DungeonsOfDoomGrupparbete\DungeonsOfDoom\DungeonsOfDoom.Core.cs\obj\Debug\netstandard2.0\DungeonsOfDoom.Core.pdb
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom.Core.cs\bin\Debug\netstandard2.0\DungeonsOfDoom.Core.deps.json
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom.Core.cs\bin\Debug\netstandard2.0\DungeonsOfDoom.Core.dll
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom.Core.cs\bin\Debug\netstandard2.0\DungeonsOfDoom.Core.pdb
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom.Core.cs\bin\Debug\netstandard2.0\DDUtils.dll
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom.Core.cs\bin\Debug\netstandard2.0\DDUtils.pdb
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom.Core.cs\obj\Debug\netstandard2.0\DungeonsOfDoom.Core.csprojAssemblyReference.cache
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom.Core.cs\obj\Debug\netstandard2.0\DungeonsOfDoom.Core.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom.Core.cs\obj\Debug\netstandard2.0\DungeonsOfDoom.Core.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom.Core.cs\obj\Debug\netstandard2.0\DungeonsOfDoom.Core.AssemblyInfo.cs
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom.Core.cs\obj\Debug\netstandard2.0\DungeonsOfDoom.Core.csproj.CopyComplete
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom.Core.cs\obj\Debug\netstandard2.0\DungeonsOfDoom.Core.dll
+C:\Users\Yen Agetorp\Desktop\Ny mapp\DungeonsOfDoom\DungeonsOfDoom.Core.cs\obj\Debug\netstandard2.0\DungeonsOfDoom.Core.pdb

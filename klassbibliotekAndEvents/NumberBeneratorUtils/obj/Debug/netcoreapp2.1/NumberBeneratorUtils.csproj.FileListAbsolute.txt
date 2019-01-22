@@ -1,0 +1,9 @@
+C:\Users\Yen Agetorp\source\repos\GroupWork2\NumberBeneratorUtils\bin\Debug\netcoreapp2.1\NumberBeneratorUtils.deps.json
+C:\Users\Yen Agetorp\source\repos\GroupWork2\NumberBeneratorUtils\bin\Debug\netcoreapp2.1\NumberBeneratorUtils.dll
+C:\Users\Yen Agetorp\source\repos\GroupWork2\NumberBeneratorUtils\bin\Debug\netcoreapp2.1\NumberBeneratorUtils.pdb
+C:\Users\Yen Agetorp\source\repos\GroupWork2\NumberBeneratorUtils\obj\Debug\netcoreapp2.1\NumberBeneratorUtils.csprojAssemblyReference.cache
+C:\Users\Yen Agetorp\source\repos\GroupWork2\NumberBeneratorUtils\obj\Debug\netcoreapp2.1\NumberBeneratorUtils.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\GroupWork2\NumberBeneratorUtils\obj\Debug\netcoreapp2.1\NumberBeneratorUtils.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\source\repos\GroupWork2\NumberBeneratorUtils\obj\Debug\netcoreapp2.1\NumberBeneratorUtils.AssemblyInfo.cs
+C:\Users\Yen Agetorp\source\repos\GroupWork2\NumberBeneratorUtils\obj\Debug\netcoreapp2.1\NumberBeneratorUtils.dll
+C:\Users\Yen Agetorp\source\repos\GroupWork2\NumberBeneratorUtils\obj\Debug\netcoreapp2.1\NumberBeneratorUtils.pdb

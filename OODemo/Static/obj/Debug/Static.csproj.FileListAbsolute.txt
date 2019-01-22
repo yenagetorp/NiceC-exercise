@@ -1,0 +1,7 @@
+C:\Users\Yen Agetorp\source\repos\OODemo\Static\bin\Debug\Static.exe.config
+C:\Users\Yen Agetorp\source\repos\OODemo\Static\bin\Debug\Static.exe
+C:\Users\Yen Agetorp\source\repos\OODemo\Static\bin\Debug\Static.pdb
+C:\Users\Yen Agetorp\source\repos\OODemo\Static\obj\Debug\Static.csprojAssemblyReference.cache
+C:\Users\Yen Agetorp\source\repos\OODemo\Static\obj\Debug\Static.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\OODemo\Static\obj\Debug\Static.exe
+C:\Users\Yen Agetorp\source\repos\OODemo\Static\obj\Debug\Static.pdb
